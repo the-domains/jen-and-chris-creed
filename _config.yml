@@ -1,4 +1,4 @@
-name: null
+name: 'Jen & Chris Creed'
 favicon: null
 layout_spectrum: 0.8
 cta:
@@ -14,7 +14,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#aba3a3'
+    - '#c8c3c2'
+    - '#fefefe'
+    - '#000000'
+    - '#808080'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
